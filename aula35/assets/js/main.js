@@ -1,3 +1,4 @@
+//Exercicio com array e desestruturação
 //array
 const elementos = [
     {tag: 'p', texto: 'Frase 1'},
