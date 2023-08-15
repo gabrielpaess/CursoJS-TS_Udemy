@@ -1,0 +1,26 @@
+gabriel paes pinheiro > ssh
+
+git bash abrir
+
+//iniciar
+
+eval $(ssh-agent)
+
+ssh-add ~/.ssh/id_rsa
+
+ssh 35.215.204.35
+
+
+//sair
+
+exit
+
+//comandos add
+
+sudo reboot --reiniciar
+
+sudo apt autoremove --O autoremove é usado para remover pacotes que foram instalados automaticamente para satisfazer dependências de outros pacotes e que já não são mais necessários.
+
+sudo apt update --Comando apt update. A função update serve para ressincronizar os arquivos do índice de pacotes de suas fontes.
+
+sudo apt upgrade --Esse comando pode ser usado frequentemente para atualizar o seu sistema com relativa segurança. O upgrade irá listar todos os pacotes que não pode atualizar, isto geralmente significa que eles dependem de novos pacotes ou entram em conflito com algum outro pacote.
